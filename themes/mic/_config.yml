@@ -10,7 +10,7 @@ head:
 
 Intro:
   name: Yuewen(Isaac) Hou
-  slogan: "In a moment, passes sorrow <br/> That which passes will be dear"
+  slogan: "<q>In a moment, passes sorrow <br/> That which passes will be dear</q>"
   HeadButton: Isaac
 
 Nav:
@@ -24,7 +24,7 @@ Nav:
   # for more icons, please see http://fontawesome.io/icons/#brand
   icon:
     github: https://github.com/isaachyw
-    500px: http://500px.com
+    linkedin: https://www.linkedin.com/in/yuewen-hou-127177254
 
   pages:
     resume:
@@ -39,13 +39,13 @@ Nav:
     #   link：“路径”
 
 MainFirst:
-  name: Miccall Metro
-  description: Technical  Artist  of  Games
+  name: Yuewen Hou
+  description: Hi, I am an undergraduate an University of Michigan and<br>Shanghai JiaoTong University major in CS and ECE. <br/>My research interest orbit around Computer architecture and system.
   pic_url: /images/i.jpg
   goto_ulr: ""
 
 Gallery:
-  title: No title
+  title: world thought
   description: Collection of photography
 
 # ---------------------------------------------------------------
