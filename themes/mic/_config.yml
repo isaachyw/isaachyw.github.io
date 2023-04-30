@@ -10,15 +10,15 @@ head:
 
 Intro:
   name: Yuewen(Isaac) Hou
-  slogan: "<q>In a moment, passes sorrow <br/> That which passes will be dear</q>"
+  slogan: "<q>In a moment, passes sorrow <br> That which passes will be dear</q>"
   HeadButton: Isaac
 
 Nav:
   Home_name: Home
   is_use_categories: true
   categories_name: categories
-  is_use_archives: false
-  archives_name: 归档
+  is_use_archives: true
+  archives_name: archive
 
   #Social
   # for more icons, please see http://fontawesome.io/icons/#brand
@@ -29,14 +29,14 @@ Nav:
   pages:
     resume:
       link: "/about/"
-    group:
-      link: "/group/"
+    # group:
+    #   link: "/group/"
     gallery:
       link: "/gallery/"
     tags:
       link: "/tag/"
-    #自定义标签名
-    #   link：“路径”
+    contact:
+      link: "/contact/"
 
 MainFirst:
   name: Yuewen Hou
