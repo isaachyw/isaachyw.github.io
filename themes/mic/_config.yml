@@ -6,7 +6,7 @@
 head:
   favicon: "/img/isaac_logo.png"
   keywords: yuewen hou isaac umich
-  backgroundpic: "img/2.png"
+  backgroundpic: "img/park.jpg"
 
 Intro:
   name: Yuewen(Isaac) Hou
@@ -16,7 +16,7 @@ Intro:
 Nav:
   Home_name: Home
   is_use_categories: true
-  categories_name: 分类
+  categories_name: categories
   is_use_archives: false
   archives_name: 归档
 
@@ -27,13 +27,13 @@ Nav:
     500px: http://500px.com
 
   pages:
-    简历:
+    resume:
       link: "/about/"
-    团队:
+    group:
       link: "/group/"
-    图库:
+    gallery:
       link: "/gallery/"
-    标签:
+    tags:
       link: "/tag/"
     #自定义标签名
     #   link：“路径”
@@ -41,7 +41,7 @@ Nav:
 MainFirst:
   name: Miccall Metro
   description: Technical  Artist  of  Games
-  pic_url: /images/me.jpg
+  pic_url: /images/i.jpg
   goto_ulr: ""
 
 Gallery:
