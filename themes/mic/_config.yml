@@ -33,8 +33,8 @@ Nav:
     #   link: "/group/"
     gallery:
       link: "/gallery/"
-    tags:
-      link: "/tag/"
+    # tags:
+    #   link: "/tag/"
     contact:
       link: "/contact/"
 
@@ -48,7 +48,10 @@ MainFirst:
     and Shanghai JiaoTong University.
     With a keen inclination towards cutting-edge research, my expertise primarily revolves around the domains of computer architecture and system.<br>
     Apart from my academic pursuits, I also find solace in indulging in various physical activities like basketball, powerlifting, and hiking.
-    Additionally, I am an avid reader and photo.<br> I am also proficient in playing the saxophone and consider it as one of my cherished hobbies.
+    Additionally, I am an avid reader and photographer.<br> I am also proficient in playing the saxophone and consider it as one of my cherished hobbies.<br>
+    <div style="position: absolute; bottom: 0%; right: 25%;">
+      <p style="text-align: right; font-size: 14px; color: #999;">portrait cr. Jasmine</p>
+    </div>
 
 Gallery:
   title: world thought
