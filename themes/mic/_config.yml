@@ -39,10 +39,16 @@ Nav:
       link: "/contact/"
 
 MainFirst:
-  name: Yuewen Hou
-  description: Hi, I am an undergraduate an University of Michigan and<br>Shanghai JiaoTong University major in CS and ECE. <br/>My research interest orbit around Computer architecture and system.
+  name: Yuewen Hou(侯悦文)
   pic_url: /images/i.jpg
-  goto_ulr: ""
+  goto_ulr: "/gallery/"
+  description: |
+    Greetings, I am a dedicated undergraduate pursuing dual degrees in Computer Science and Electrical and Computer Engineering from the esteemed institutions of
+    the University of Michigan<br>
+    and Shanghai JiaoTong University.
+    With a keen inclination towards cutting-edge research, my expertise primarily revolves around the domains of computer architecture and system.<br>
+    Apart from my academic pursuits, I also find solace in indulging in various physical activities like basketball, powerlifting, and hiking.
+    Additionally, I am an avid reader and photo.<br> I am also proficient in playing the saxophone and consider it as one of my cherished hobbies.
 
 Gallery:
   title: world thought
