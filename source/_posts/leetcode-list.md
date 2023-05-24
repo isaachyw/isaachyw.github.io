@@ -3,11 +3,12 @@ title: leetcode-list
 date: 2023-05-02 13:47:50
 tags: code
 ---
+
 - [ ] Dynamic Programming
 - [ ] Leetcode Problem 5: Longest Palindromic Substring
 - [ ] Leetcode Problem 53. Maximum Subarray
-- [ ] Leetcode Problem 62. Unique Paths
-- [ ] Leetcode Problem 63. Unique Paths II
+- [x] Leetcode Problem 62. Unique Paths
+- [x] Leetcode Problem 63. Unique Paths II
 - [ ] Leetcode Problem 64. Minimum Path Sum
 - [ ] Leetcode Problem 70. Climbing Stairs
 - [ ] Leetcode Problem 91. Decode Ways
@@ -26,16 +27,16 @@ tags: code
 - [ ] Leetcode Problem 1143. Longest Common Subsequence
 - [ ] Leetcode Problem 1770. Maximum Score from Performing M
 - [ ] Graphs/DFS/BFS
-- [ ] Leetcode Problem 547 Number of Provinces 
-- [ ] Leetcode Problem 130: Surrounded Regions 
+- [x] Leetcode Problem 547 Number of Provinces
+- [ ] Leetcode Problem 130: Surrounded Regions
 - [ ] Leetcode Problem 733: Flood Fill
-- [ ] Leetcode Problem 695: Max Area of an Island 
-- [ ] Leetcode Problem 994: Rotting Oranges 
+- [ ] Leetcode Problem 695: Max Area of an Island
+- [ ] Leetcode Problem 994: Rotting Oranges
 - [ ] Leetcode Problem 207: Course Schedule
-- [ ] Leetcode Problem 103: Binary Tree Zigzag Level Order Traversal 
-- [ ] Leetcode Problem 773: Sliding Puzzle 
+- [ ] Leetcode Problem 103: Binary Tree Zigzag Level Order Traversal
+- [ ] Leetcode Problem 773: Sliding Puzzle
 - [ ] Tree
-- [ ] Leetcode Problem 94: Binary Tree Inorder Traversal
+- [x] Leetcode Problem 94: Binary Tree Inorder Traversal
 - [ ] Leetcode Problem 98: Validate Binary Search Tree
 - [ ] Leetcode Problem 100: Same Tree
 - [ ] Leetcode Problem 101: Symmetric Tree
@@ -63,40 +64,40 @@ tags: code
 - [ ] Leetcode Problem 965: Univalued Binary Tree
 - [ ] Leetcode Problem 1448: Count Good Nodes in Binary Tree
 - [ ] Hashmap
-- [ ] Leetcode Problem 13: Roman to Integer 
-- [ ] Leetcode Problem 3: Longest Substring Without Repeating Characters 
-- [ ] Leetcode Problem 49: Group Anagrams 
-- [ ] Leetcode Problem 146: LRU cache 
+- [ ] Leetcode Problem 13: Roman to Integer
+- [ ] Leetcode Problem 3: Longest Substring Without Repeating Characters
+- [x] Leetcode Problem 49: Group Anagrams
+- [x] Leetcode Problem 146: LRU cache
 - [ ] Leetcode Problem 266: Palindrome Permutation
-- [ ] Leetcode Problem 380: Insert Design GetRandom O(1) 
+- [ ] Leetcode Problem 380: Insert Design GetRandom O(1)
 - [ ] Leetcode Problem 359: Logger Rate Limiter
 - [ ] Leetcode Problem 1396: Design Underground System
 - [ ] Leetcode Problem 560: Subarray Sum Equals K
 - [ ] Leetcode Problem 170: Two Sum III
-- [ ] Leetcode Problem 953: Verifying an Alien Dictionary 
-- [ ] Leetcode Problem 981: Time Based Key-Value Store 
-- [ ] Leetcode Problem 387: FInd Unique Character in String 
-- [ ] Leetcode Problem 269: Missing Number 
-- [ ] Leetcode Problem 73: Set Matrix Zeros 
+- [ ] Leetcode Problem 953: Verifying an Alien Dictionary
+- [ ] Leetcode Problem 981: Time Based Key-Value Store
+- [ ] Leetcode Problem 387: FInd Unique Character in String
+- [ ] Leetcode Problem 269: Missing Number
+- [ ] Leetcode Problem 73: Set Matrix Zeros
 - [ ] Leetcode Problem 244: Shortest word distance II
-- [ ] Leetcode Problem 362: Design Hit Counter 
-- [ ] Leetcode Problem 348: Design Tic Tac Toe 
-- [ ] Sorting 
-- [ ] Leetcode Problem 56: Merge Intervals 
-- [ ] Leetcode Problem 49: Group Anagrams 
+- [ ] Leetcode Problem 362: Design Hit Counter
+- [ ] Leetcode Problem 348: Design Tic Tac Toe
+- [ ] Sorting
+- [ ] Leetcode Problem 56: Merge Intervals
+- [x] Leetcode Problem 49: Group Anagrams
 - [ ] Leetcode Problem 15: 3Sum
-- [ ] Leetcode Problem 217: Contains Duplicate 
+- [ ] Leetcode Problem 217: Contains Duplicate
 - [ ] Leetcode Problem 215: Kth Largest Element in an Array
-- [ ] Leetcode Problem 242: Valid Anagram 
+- [ ] Leetcode Problem 242: Valid Anagram
 - [ ] Leetcode Problem 253: Meeting Rooms II
-- [ ] Leetcode Problem 268: Missing Number
+- [x] Leetcode Problem 268: Missing Number
 - [ ] Leetcode Problem 360: Sort Transformed Array
 - [ ] Leetcode Problem 349: Intersection of Two Arrays II
 - [ ] Leetcode Problem 973: K Closest Points to Origin
 - [ ] Leetcode Problem 426: Convert Binary Search Tree to Sorted Doubly Linked List
 - [ ] Leetcode Problem 83: Remove Duplicates from Sorted List
-- [ ] Leetcode Problem 75: Sort Colors 
-- [ ] Binary Search 
+- [ ] Leetcode Problem 75: Sort Colors
+- [ ] Binary Search
 - [ ] Leetcode Problem 209: Minimum Size Subarray Sum
 - [ ] Leetcode Problem 167: Two Sum II
 - [ ] Leetcode Problem 287: Find the Duplicate Number
@@ -111,46 +112,46 @@ tags: code
 - [ ] Leetcode Problem 973: K closest spots to the origin (medium)
 - [ ] Leetcode Problem 1338: Reduce array size in half (medium)
 - [ ] Leetcode Problem 215: Kth Largest Element in an Array (medium)
-- [ ] Leetcode Problem 1338: Reduce Array Size to The Half (medium)
+- [x] Leetcode Problem 1338: Reduce Array Size to The Half (medium)
 - [ ] Union-Find
-- [ ] Leetcode Problem 128: Longest Consecutive Sequence (medium)
+- [x] Leetcode Problem 128: Longest Consecutive Sequence (medium)
 - [ ] Leetcode Problem 130: Surrounded Regions (medium)
 - [ ] Leetcode Problem 695: Max area of island (medium)
 - [ ] Leetcode Problem 547: Number of Provinces (medium)
 - [ ] Strings
-- [ ] Leetcode Problem 3: Longest Substring without repeating characters 
+- [ ] Leetcode Problem 3: Longest Substring without repeating characters
 - [x] Leetcode Problem 28: Implement strStr()
 - [ ] Leetcode Problem 344: Reverse String
 - [ ] Leetcode Problem 151: Reverse Words in a String
 - [ ] Leetcode Problem 186: Reverse Words in a String 2
-- [ ] Leetcode Problem 443: String Compression 
+- [ ] Leetcode Problem 443: String Compression
 - [ ] Leetcode Problem 412: Fizz Buzz
 - [ ] Leetcode Problem 884: Uncommon words from two sentences
 - [ ] Leetcode Problem 13: Roman to Integer
-- [ ] Leetcode Problem 14: Longest Common Prefix 
+- [ ] Leetcode Problem 14: Longest Common Prefix
 - [ ] Leetcode Problem 539: Minimum Time Difference
 - [ ] Leetcode Problem 680: Valid Palindrome 2
-- [ ] Leetcode Problem 792: Number of Matching Subsequences 
-- [ ] Leetcode Problem 953: Verifying an Alien Dictionary 
-- [ ] Leetcode Problem 1041: Robot Bounded in a Circle 
+- [ ] Leetcode Problem 792: Number of Matching Subsequences
+- [ ] Leetcode Problem 953: Verifying an Alien Dictionary
+- [ ] Leetcode Problem 1041: Robot Bounded in a Circle
 - [ ] Leetcode Problem 1047: Remove All Adjacent Duplicates In String
 - [ ] Leetcode Problem 1249: Minimum Remove to Make Valid Parenthesis
 - [ ] Stacks/Queues
 - [ ] Leetcode Problem 232: Implement queue using stacks
-- [ ] Leetcode Problem 1249: Minimum Remove to Make Valid Parenthesis 
-- [ ] Leetcode Problem 341: Flatten Nested List Iterator 
+- [ ] Leetcode Problem 1249: Minimum Remove to Make Valid Parenthesis
+- [ ] Leetcode Problem 341: Flatten Nested List Iterator
 - [ ] Leetcode Problem 346: Moving Average from Data Stream
-- [ ] Leetcode Problem 155: Min Stack 
-- [ ] Leetcode Problem 234: Palindrome Linked List 
+- [ ] Leetcode Problem 155: Min Stack
+- [ ] Leetcode Problem 234: Palindrome Linked List
 - [ ] Leetcode Problem 1047: Remove all adjacent duplicates in string
-- [ ] Leetcode Problem 341: Flatten Nested List Iterator 
-- [ ] Leetcode Problem 362: Design Hit Counter 
+- [ ] Leetcode Problem 341: Flatten Nested List Iterator
+- [ ] Leetcode Problem 362: Design Hit Counter
 - [ ] Leetcode Problem 716: Max Stack
 - [ ] Linked List
 - [ ] Leetcode Problem 2: Add Two Numbers
-- [ ] Leetcode Problem 19, 203: Remove Nth Node from End of List, Remove Linked List Elements 
-- [x] Leetcode Problem 160: Intersection of Two Linked Lists 
-- [ ] Leetcode Problem 21 and 23: Merge two sorted lists/merge k sorted lists 
+- [ ] Leetcode Problem 19, 203: Remove Nth Node from End of List, Remove Linked List Elements
+- [x] Leetcode Problem 160: Intersection of Two Linked Lists
+- [ ] Leetcode Problem 21 and 23: Merge two sorted lists/merge k sorted lists
 - [ ] Leetcode Problem 92: Reverse Linked List 2
 - [ ] Leetcode Problem 141: Linked List Cycle
 - [ ] Leetcode Problem 237: Delete Node in a Linked List
@@ -160,15 +161,15 @@ tags: code
 - [ ] Array
 - [ ] Leetcode Problem 26: Remove duplicates from a Sorted Array
 - [ ] Leetcode Problem 27: Remove element
-- [ ] Leetcode Problem 73: Set Matrix Zeros 
+- [ ] Leetcode Problem 73: Set Matrix Zeros
 - [ ] Leetcode Problem 54: Spiral Matrix
-- [ ] Leetcode Problem 33: Search in Rotated Sorted Array
-- [ ] Leetcode Problem 238: Product of Array Except Self 
+- [x] Leetcode Problem 33: Search in Rotated Sorted Array
+- [ ] Leetcode Problem 238: Product of Array Except Self
 - [ ] Leetcode Problem 350: Intersection of Two Arrays 2
 - [ ] Leetcode Problem 88: Merge Sorted Array
 - [ ] Leetcode Problem 11: Container with Most Water
-- [ ] Leetcode Problem 169: Majority Element 
-- [ ] Leetcode Problem 284: Peeking Iterator 
+- [ ] Leetcode Problem 169: Majority Element
+- [ ] Leetcode Problem 284: Peeking Iterator
 - [ ] Leetcode Problem 348: Design Tic-Tac-Toe
 - [ ] Leetcode Problem 11: Container with most water
 - [ ] Leetcode Problem 189: Rotate array
