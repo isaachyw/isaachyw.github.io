@@ -14,7 +14,7 @@ tags: code
 - [ ] Leetcode Problem 91. Decode Ways
 - [ ] Leetcode Problem 121. Best Time to Buy and Sell Stock
 - [ ] Leetcode Problem 122. Best Time to Buy and Sell Stock II
-- [ ] Leetcode Problem 139. Word Break
+- [x] Leetcode Problem 139. Word Break
 - [ ] Leetcode Problem 152. Maximum Product Subarray
 - [ ] Leetcode Problem 198. House Robber
 - [ ] Leetcode Problem 300. Longest Increasing Subsequence
@@ -31,7 +31,7 @@ tags: code
 - [ ] Leetcode Problem 130: Surrounded Regions
 - [ ] Leetcode Problem 733: Flood Fill
 - [ ] Leetcode Problem 695: Max Area of an Island
-- [ ] Leetcode Problem 994: Rotting Oranges
+- [x] Leetcode Problem 994: Rotting Oranges
 - [ ] Leetcode Problem 207: Course Schedule
 - [ ] Leetcode Problem 103: Binary Tree Zigzag Level Order Traversal
 - [ ] Leetcode Problem 773: Sliding Puzzle
@@ -71,7 +71,7 @@ tags: code
 - [ ] Leetcode Problem 266: Palindrome Permutation
 - [ ] Leetcode Problem 380: Insert Design GetRandom O(1)
 - [ ] Leetcode Problem 359: Logger Rate Limiter
-- [ ] Leetcode Problem 1396: Design Underground System
+- [x] Leetcode Problem 1396: Design Underground System
 - [ ] Leetcode Problem 560: Subarray Sum Equals K
 - [ ] Leetcode Problem 170: Two Sum III
 - [ ] Leetcode Problem 953: Verifying an Alien Dictionary
@@ -141,12 +141,10 @@ tags: code
 - [ ] Leetcode Problem 1249: Minimum Remove to Make Valid Parenthesis
 - [ ] Leetcode Problem 341: Flatten Nested List Iterator
 - [ ] Leetcode Problem 346: Moving Average from Data Stream
-- [ ] Leetcode Problem 155: Min Stack
+- [x] Leetcode Problem 155: Min Stack
 - [ ] Leetcode Problem 234: Palindrome Linked List
 - [ ] Leetcode Problem 1047: Remove all adjacent duplicates in string
 - [ ] Leetcode Problem 341: Flatten Nested List Iterator
-- [ ] Leetcode Problem 362: Design Hit Counter
-- [ ] Leetcode Problem 716: Max Stack
 - [ ] Linked List
 - [ ] Leetcode Problem 2: Add Two Numbers
 - [ ] Leetcode Problem 19, 203: Remove Nth Node from End of List, Remove Linked List Elements
