@@ -1,0 +1,16 @@
+
+<div class="flex flex-wrap gap-1">
+  <% if (tags && tags.length) { %>
+    <% tags.forEach(function (tag) { %>
+      <a href="<%- url_for(tag.path) %>" 
+        class="
+          tag
+          text-sm
+          rounded-full
+          dark:drop-shadow-none
+        ">
+        #<%- tag.name %>
+      </a>
+    <% }); %>
+  <% } %>
+</div>
