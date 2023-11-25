@@ -1,24 +1,25 @@
 # Header
 nav:
-  # Home: /index
+  Home: /index
   Posts: /archives
+  resume: "/about/"
   # Categories: /category
   # Tags: /tag
   # Publications: /publications  # This renders `source/publications.md`
   # "About Me": /about  # This renders `source/about.md`
 
-email: example@xxx.com
+email: isaachyw@umich.edu
 
 # favicon
-favicon: /favicon.ico
+favicon: /img/isaac_logo.png
 
 # logo
-logo: /images/logo.svg
+logo: /img/isaac_logo.png
 
 # links
 links:
-  Github: https://github.com/chen-yingfa
-  ZhiHu: https://www.zhihu.com/people/chen-ying-fa-34
+  Github: https://github.com/isaachyw
+  # ZhiHu: https://www.zhihu.com/people/chen-ying-fa-34
   # Twitter:
   # Weibo:
 

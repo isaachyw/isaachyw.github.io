@@ -7,7 +7,7 @@ title: Contact Me
     label {
         display: block;
         font-weight: bold;
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.2rem;
     }
     
     /* Style for inputs and select */

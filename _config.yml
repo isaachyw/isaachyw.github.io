@@ -4,13 +4,12 @@
 
 # Site
 title: Yuewen
-subtitle: ""
+# subtitle: "Isaac"
 description: "personal page"
 keywords: Yuewen Hou
 author: Yuewen Hou
-language: 
-- en
-- zh-tw
+language:
+  - en
 timezone: "America/New_York"
 
 # URL
@@ -102,7 +101,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: mic
+theme: Academia
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
