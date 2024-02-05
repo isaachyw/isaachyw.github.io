@@ -1,0 +1,7 @@
+---
+title: Dynamic Cloud Resource Management for Variational Quantum Algorithms
+date: 2024-02-04 22:16:14
+---
+
+Quantum programs primarily access quantum devices through the cloud. However, these programs face significant execution challenges due to the limitations of near and intermediate-term quantum computers, such as device noise, limited qubits, scarce resources, and high demand. The crucial need for high execution fidelity as well as the wide diversity among quantum resources further complicate resource management. Existing quantum cloud resource management strategies, which are mainly heuristic and prone to inaccuracies, are therefore inefficient.
+This work targets resource management for the critical domain of long-running quantum applications, with a specific focus on variational quantum algorithms (VQA). Long-running applications are especially hard for resource management as they require appropriate (e.g., homogeneous/high fidelity) quantum resources for extended durations. We propose a novel methodology for dynamic resource management that employs Clifford circuit-based fidelity estimation strategies (across different quantum resources) to help precisely identify the appropriate quantum resources for different segments of the VQA application. This enables intelligent application switching between devices, allowing for fast VQA convergence and high fidelity, while adhering to cloud resource constraints and enhancing overall quantum cloud throughput.
