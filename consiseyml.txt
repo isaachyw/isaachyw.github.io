@@ -1,0 +1,50 @@
+# Header
+menu:
+  Home: /
+  Publication: /publication
+  # tags: /tags
+  archives: /archives
+  blogs: /
+  books: /books
+  teaching: /teaching
+  CV: /about
+  Contact: /contact
+
+# Content
+excerpt_link: 阅读更多
+content_max_width: 800px
+
+# Sidebar
+author:
+  name: Yuewen (Isaac) Hou 侯悦文
+  work: Phd student at University of Michigan
+  location: Ann Arbor, MI, US
+  avatar_url: /images/mi.jpg
+
+# Links:
+links:
+  - svg: ./source/svg/_github.svg
+    url: https://github.com/isaachyw
+  - svg: ./source/svg/_google_scholar.svg
+    url: https://scholar.google.com/citations?user=ZsNmMscAAAAJ&hl=en
+  - svg: ./source/svg/_linkedin.svg
+    url: https://www.linkedin.com/in/yuewen-hou-127177254/
+
+# github comment
+git_commit:
+  enable: false
+  client_id: Ov23liSD73wDR7g66MMe
+  client_secret: 9914aa234489025a3391ad89146eceb579904cec
+  repo: isaachyw.github.io
+  owner: isaachyw
+  admin:
+    - isaachyw
+  per_page: 10
+
+# 百度统计
+# baidu:
+#   id: 4fd780ccd089e6bf7615aac27892d0ec
+
+# Miscellaneous
+rss: /atom.xml
+favicon: /images/quantum-computing.png
